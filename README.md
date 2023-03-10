@@ -1,1 +1,1 @@
-# qqbot_py_tutorial
+# qqbot_py
